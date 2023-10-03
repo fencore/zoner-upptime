@@ -3,15 +3,15 @@ owner: fencore # Your GitHub organization or username, where this repository liv
 repo: zoner-upptime # The name of this repository
 
 sites:
-  - name: Freeport 11
+  - name: Freeport 11 - zoner.work
     url: https://zoner.work
-  - name: Garbage Engine
+  - name: Garbage Engine - zoner.gay
     url: https://zoner.gay
-  - name: Garbage Cloud
+  - name: Garbage Cloud - nc.zoner.gay
     url: https://nc.zoner.gay
-  - name: Garbage Collector
+  - name: Garbage Collector - wf.zoner.gay
     url: https://wf.zoner.gay
-  - name: Trash TV
+  - name: Trash TV - oc.zoner.gay
     url: https://oc.zoner.gay
 
 status-website:
