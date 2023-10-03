@@ -20,8 +20,8 @@ status-website:
   cname: status.zoner.work
   # baseUrl: /your-repo-name
   logoUrl: https://i.zoner.work/firefish/favicon.png
-  name: Freeport Hub
-  introTitle: "**Service Status"
+  name: The Known Fenternet
+  introTitle: "**Freeport Hub"
   introMessage: This is a status page for services on the zoner.work and zoner.gay domains.
   navbar:
     - title: Status
