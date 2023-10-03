@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.zoner.work
   # baseUrl: /your-repo-name
-  logoUrl: https://github.com/fencore/zoner-upptime/blob/2d88d81430cd1fdb119bf90cd0731c5f2b4a5bac/assets/zoner.png
+  logoUrl: https://i.zoner.work/firefish/favicon.png
   name: Freeport Hub
   introTitle: "**Service Status"
   introMessage: This is a status page for services on the zoner.work and zoner.gay domains.
