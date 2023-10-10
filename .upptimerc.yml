@@ -5,6 +5,9 @@ repo: zoner-upptime # The name of this repository
 sites:
   - name: Freeport 11 - zoner.work
     url: https://zoner.work
+  - name: S3 Object Storage
+    url: https://zoner.objects-us-east-1.dream.io/firefish/3441b9cc-2b08-476b-a1ff-d4e1d9abb3d2.png
+    icon: https://zoner.objects-us-east-1.dream.io/firefish/3441b9cc-2b08-476b-a1ff-d4e1d9abb3d2.png
   - name: Garbage Collector - wf.zoner.work
     url: https://wf.zoner.work
   - name: Garbage Engine - zoner.gay
