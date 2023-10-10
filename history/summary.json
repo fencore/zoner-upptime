@@ -4,18 +4,20 @@
     "url": "https://zoner.work",
     "icon": "https://icons.duckduckgo.com/ip3/zoner.work.ico",
     "slug": "freeport-11-zoner-work",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 441,
-    "timeWeek": 221,
+    "timeWeek": 183,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-10": 0
+    }
   },
   {
     "name": "Garbage Engine - zoner.gay",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 727,
-    "timeWeek": 303,
+    "timeWeek": 316,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 541,
     "timeDay": 668,
-    "timeWeek": 541,
+    "timeWeek": 486,
     "timeMonth": 541,
     "timeYear": 541,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 411,
     "timeDay": 692,
-    "timeWeek": 411,
+    "timeWeek": 433,
     "timeMonth": 411,
     "timeYear": 411,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 356,
     "timeDay": 854,
-    "timeWeek": 356,
+    "timeWeek": 353,
     "timeMonth": 356,
     "timeYear": 356,
     "dailyMinutesDown": {}
