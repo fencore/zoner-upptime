@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 301,
-    "timeWeek": 286,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "time": 254,
+    "timeDay": 243,
+    "timeWeek": 279,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 288,
-    "timeWeek": 287,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 282,
+    "timeDay": 250,
+    "timeWeek": 282,
+    "timeMonth": 282,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 298,
+    "timeDay": 270,
     "timeWeek": 268,
     "timeMonth": 268,
     "timeYear": 268,
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 436,
-    "timeWeek": 381,
-    "timeMonth": 335,
-    "timeYear": 335,
+    "time": 336,
+    "timeDay": 348,
+    "timeWeek": 376,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -76,18 +76,20 @@
     "url": "https://nc.zoner.gay",
     "icon": "https://icons.duckduckgo.com/ip3/nc.zoner.gay.ico",
     "slug": "garbage-cloud-nc-zoner-gay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
-    "timeDay": 686,
-    "timeWeek": 640,
+    "timeDay": 620,
+    "timeWeek": 633,
     "timeMonth": 596,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-15": 0
+    }
   },
   {
     "name": "Trash TV - oc.zoner.gay",
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 461,
-    "timeWeek": 486,
-    "timeMonth": 418,
-    "timeYear": 418,
+    "time": 417,
+    "timeDay": 398,
+    "timeWeek": 476,
+    "timeMonth": 417,
+    "timeYear": 417,
     "dailyMinutesDown": {}
   }
 ]
