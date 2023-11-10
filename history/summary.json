@@ -4,19 +4,19 @@
     "url": "https://zoner.work",
     "icon": "https://icons.duckduckgo.com/ip3/zoner.work.ico",
     "slug": "firefish-zoner-work",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 300,
-    "timeDay": 403,
+    "timeDay": 384,
     "timeWeek": 305,
     "timeMonth": 300,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-11-10": 0
+      "2023-11-10": 12
     }
   },
   {
