@@ -58,19 +58,19 @@
     "url": "https://zoner.gay",
     "icon": "https://icons.duckduckgo.com/ip3/zoner.gay.ico",
     "slug": "akkoma-zoner-gay",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 1311,
-    "timeWeek": 573,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 428,
+    "timeDay": 1181,
+    "timeWeek": 571,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {
-      "2023-11-11": 0
+      "2023-11-11": 13
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://nc.zoner.gay",
     "icon": "https://icons.duckduckgo.com/ip3/nc.zoner.gay.ico",
     "slug": "nextcloud-nc-zoner-gay",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 555,
-    "timeWeek": 651,
-    "timeMonth": 640,
-    "timeYear": 640,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 644,
+    "timeDay": 639,
+    "timeWeek": 664,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2023-11-11": 0
+      "2023-11-11": 13
     }
   },
   {
