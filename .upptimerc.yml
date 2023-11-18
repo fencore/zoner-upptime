@@ -8,14 +8,6 @@ sites:
   - name: S3 Object Storage
     url: https://zoner.objects-us-east-1.dream.io/firefish/3441b9cc-2b08-476b-a1ff-d4e1d9abb3d2.png
     icon: https://zoner.objects-us-east-1.dream.io/firefish/3441b9cc-2b08-476b-a1ff-d4e1d9abb3d2.png
-  - name: Writefreely - wf.zoner.work
-    url: https://wf.zoner.work
-  - name: Akkoma - zoner.gay
-    url: https://zoner.gay
-  - name: Nextcloud - nc.zoner.gay
-    url: https://nc.zoner.gay
-  - name: Owncast - oc.zoner.gay
-    url: https://oc.zoner.gay
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
