@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 210,
-    "timeWeek": 257,
-    "timeMonth": 287,
-    "timeYear": 289,
-    "dailyMinutesDown": {}
+    "time": 287,
+    "timeDay": 158,
+    "timeWeek": 242,
+    "timeMonth": 285,
+    "timeYear": 287,
+    "dailyMinutesDown": {
+      "2023-11-30": 0
+    }
   },
   {
     "name": "S3 Object Storage",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 323,
-    "timeWeek": 305,
-    "timeMonth": 320,
+    "timeDay": 283,
+    "timeWeek": 297,
+    "timeMonth": 319,
     "timeYear": 305,
     "dailyMinutesDown": {}
   }
