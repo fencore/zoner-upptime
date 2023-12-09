@@ -25,19 +25,19 @@
     "url": "https://zoner.objects-us-east-1.dream.io/firefish/3441b9cc-2b08-476b-a1ff-d4e1d9abb3d2.png",
     "icon": "https://zoner.objects-us-east-1.dream.io/firefish/3441b9cc-2b08-476b-a1ff-d4e1d9abb3d2.png",
     "slug": "s3-object-storage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
     "time": 306,
-    "timeDay": 297,
+    "timeDay": 295,
     "timeWeek": 295,
     "timeMonth": 313,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-12-09": 0
+      "2023-12-09": 38
     }
   }
 ]
