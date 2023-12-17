@@ -6,8 +6,8 @@ sites:
   - name: Firefish - zoner.work
     url: https://zoner.work
   - name: S3 Object Storage
-    url: https://zoner.objects-us-east-1.dream.io/firefish/3441b9cc-2b08-476b-a1ff-d4e1d9abb3d2.png
-    icon: https://zoner.objects-us-east-1.dream.io/firefish/3441b9cc-2b08-476b-a1ff-d4e1d9abb3d2.png
+    url: https://zoner.nyc3.digitaloceanspaces.com/firefish/3441b9cc-2b08-476b-a1ff-d4e1d9abb3d2.png
+    icon: https://zoner.nyc3.digitaloceanspaces.com/firefish/3441b9cc-2b08-476b-a1ff-d4e1d9abb3d2.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
